@@ -8,7 +8,7 @@ YELLOW='\033[0;33m'
 NC='\033[0m'
 
 # Configuration
-HOSTNAME="MyVPS"
+HOSTNAME="ixnixdevs"
 HISTORY_FILE="${HOME}/.custom_shell_history"
 MAX_HISTORY=1000
 
